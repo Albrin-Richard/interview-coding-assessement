@@ -1,6 +1,8 @@
 # Sample Output
+<img width="636" alt="image 1" src="https://github.com/Albrin-Richard/interview-coding-assessement/assets/51479257/09cf0c3a-c804-4e7b-9e92-6317670e3b5e">
 
-<img width="636" alt="image 1" src="[https://github.com/Albrin-Richard/interview-coding-assessement/assets/51479257/873bb8d5-04d5-4f44-8022-bc66568d589c](https://github.com/Albrin-Richard/interview-coding-assessement/blob/main/images/image%201.png)">
+<img width="636" alt="image 2" src="https://github.com/Albrin-Richard/interview-coding-assessement/assets/51479257/0a223300-0eb4-4114-8948-1b789b1d1587">
+
 
 
 # Getting Started with Create React App
