@@ -1,3 +1,7 @@
+# Sample Output
+![Sample Image](images/image 1.png)
+![Sample Image](images/image 2.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
