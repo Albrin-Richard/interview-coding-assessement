@@ -1,5 +1,5 @@
 # Sample Output
-![Sample Image](./images/image 1.png)
+![Sample Image]([./images/image 1.png](https://github.com/Albrin-Richard/interview-coding-assessement/blob/main/images/image%201.png))
 ![Sample Image](images/image 2.png)
 
 # Getting Started with Create React App
