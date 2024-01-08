@@ -1,6 +1,7 @@
 # Sample Output
-![Sample Image]([./images/image 1.png](https://github.com/Albrin-Richard/interview-coding-assessement/blob/main/images/image%201.png))
-![Sample Image](images/image 2.png)
+
+<img width="636" alt="image 1" src="[https://github.com/Albrin-Richard/interview-coding-assessement/assets/51479257/873bb8d5-04d5-4f44-8022-bc66568d589c](https://github.com/Albrin-Richard/interview-coding-assessement/blob/main/images/image%201.png)">
+
 
 # Getting Started with Create React App
 
