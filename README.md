@@ -1,4 +1,4 @@
-# Project Name
+# Generate Floor Plan from JSON Dataset
 
 ## Description
 Create a JavaScript Application in a popular framework (React) that takes a JSON dataset containing product names and their repetition count. Generate a floor plan (RU Table) based on the given constraints.
