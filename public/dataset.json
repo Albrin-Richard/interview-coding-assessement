@@ -1,0 +1,106 @@
+[
+    {
+        "product": "Core i1",
+        "repeat": 9
+    },
+    {
+        "product": "Core i2",
+        "repeat": 13
+    },
+    {
+        "product": "Core i3",
+        "repeat": 4
+    },
+    {
+        "product": "Core i4",
+        "repeat": 1
+    },
+    {
+        "product": "Core i5",
+        "repeat": 1
+    },
+    {
+        "product": "Core i6",
+        "repeat": 13
+    },
+    {
+        "product": "Core i7",
+        "repeat": 4
+    },
+    {
+        "product": "Core i8",
+        "repeat": 4
+    },
+    {
+        "product": "Core i9",
+        "repeat": 4
+    },
+    {
+        "product": "Core i10",
+        "repeat": 2
+    },
+    {
+        "product": "Core i11",
+        "repeat": 1
+    },
+    {
+        "product": "Core i12",
+        "repeat": 2
+    },
+    {
+        "product": "Core i13",
+        "repeat": 2
+    },
+    {
+        "product": "Core i14",
+        "repeat": 3
+    },
+    {
+        "product": "Core i15",
+        "repeat": 3
+    },
+    {
+        "product": "Core i16",
+        "repeat": 2
+    },
+    {
+        "product": "Core i17",
+        "repeat": 1
+    },
+    {
+        "product": "Core i18",
+        "repeat": 1
+    },
+    {
+        "product": "Core i19",
+        "repeat": 2
+    },
+    {
+        "product": "Core i20",
+        "repeat": 1
+    },
+    {
+        "product": "Core i21",
+        "repeat": 2
+    },
+    {
+        "product": "Core i22",
+        "repeat": 1
+    },
+    {
+        "product": "Core i23",
+        "repeat": 1
+    },
+    {
+        "product": "Core i24",
+        "repeat": 1
+    },
+    {
+        "product": "Core i25",
+        "repeat": 1
+    },
+    {
+        "product": "Core i26",
+        "repeat": 1
+    }
+]

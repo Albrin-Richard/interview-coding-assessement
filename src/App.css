@@ -1,38 +1,88 @@
+/* Apply a CSS reset to remove default margin and padding */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
 .App {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
 
+/* App.css */
 .App-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 60px;
   background-color: #282c34;
-  min-height: 100vh;
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  align-items: center;
   color: white;
+
+  padding: 0 20px;
+  z-index: 1000; /* Ensure the header stays on top */
+
+  /* Other styles as needed */
 }
 
-.App-link {
-  color: #61dafb;
+/* Table.css */
+.table-container {
+  margin-top: 70px; /* Adjust the margin to create space below the header */
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+table {
+
+  width: 96%;
+  margin: 1em auto;
+  border-collapse: collapse;
+  /* Other table styles */
 }
+
+td, th {
+  border: 1px solid rgb(0, 0, 0);
+  padding: .5em;
+  text-align: center; /* Adjust text alignment */
+}
+
+.horizontal-header {
+  background-color: #00507c;
+  color: white;
+  /* Any additional styles for the TOPIC cell */
+}
+
+
+.vertical-header {
+  background-color: #00507c;
+  color: white;
+  writing-mode: vertical-rl; /* Set vertical writing mode */
+  transform: rotate(0deg); /* Correct for vertical alignment */
+  text-align: center; /* Adjust text alignment */
+  white-space: nowrap; /* Prevent text wrapping */
+}
+
+.mid-way-row {
+  background-color: white;
+  color: black;
+  text-align: center; /* Align text at the center */
+  font-size: 16px; /* Adjust the font size to match the header */
+  font-weight: bold; /* Apply bold font */
+  
+}
+
+.grid-col {
+
+  background-color: #00807c;
+  color: white;
+  writing-mode: vertical-rl; /* Set vertical writing mode */
+  transform: rotate(0deg); /* Correct for vertical alignment */
+  text-align: center; /* Adjust text alignment */
+  white-space: nowrap; /* Prevent text wrapping */
+  font-size: 16px; /* Adjust the font size to match the header */
+  font-weight: bold; /* Apply bold font */
+}
+
