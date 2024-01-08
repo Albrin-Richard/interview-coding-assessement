@@ -1,7 +1,7 @@
 # Sample Output
-<img width="636" alt="image 1" src="https://github.com/Albrin-Richard/interview-coding-assessement/assets/51479257/09cf0c3a-c804-4e7b-9e92-6317670e3b5e">
+<img width="300" alt="image 1" src="https://github.com/Albrin-Richard/interview-coding-assessement/assets/51479257/09cf0c3a-c804-4e7b-9e92-6317670e3b5e">
 
-<img width="636" alt="image 2" src="https://github.com/Albrin-Richard/interview-coding-assessement/assets/51479257/0a223300-0eb4-4114-8948-1b789b1d1587">
+<img width="300" alt="image 2" src="https://github.com/Albrin-Richard/interview-coding-assessement/assets/51479257/0a223300-0eb4-4114-8948-1b789b1d1587">
 
 
 
