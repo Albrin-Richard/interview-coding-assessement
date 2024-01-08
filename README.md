@@ -8,7 +8,7 @@ Follow these steps to download and run the project locally:
 
 ### Prerequisites
 Make sure you have the following installed:
-- Node.js
+- React
 - npm (Node Package Manager)
 
 ### Installation
