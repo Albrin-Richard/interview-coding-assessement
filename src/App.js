@@ -6,9 +6,13 @@ import './App.css';
 function App() {
 
 const jsonData = require('./dataset.json'); // JSON filename
-console.log("data from JSON = ", jsonData);
+//console.log("data from JSON = ", jsonData);
+
+/**  
+ * Get the Grid distributed data from Algorithm  
+*/
 const gridData = gridDistribution(jsonData);
-console.log("gridData = ", gridData);
+//console.log("gridData = ", gridData);
 
   return (
     <div >

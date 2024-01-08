@@ -4,12 +4,9 @@
   padding: 0;
 }
 
-
 .App {
   text-align: center;
 }
-
-
 
 /* App.css */
 .App-header {
@@ -27,10 +24,9 @@
   padding: 0 20px;
   z-index: 1000; /* Ensure the header stays on top */
 
-  /* Other styles as needed */
 }
 
-/* Table.css */
+/* Table css */
 .table-container {
   margin-top: 70px; /* Adjust the margin to create space below the header */
 }
